@@ -46,19 +46,7 @@ var member =
       },
       {
         "phone": "",
-        "name": "haideeye(叶文杰)"
-      },
-      {
-        "phone": "",
-        "name": "helayelzhao(赵丽娜)"
-      },
-      {
-        "phone": "",
         "name": "henrywang(王晟源)"
-      },
-      {
-        "phone": "",
-        "name": "irisyang(杨晓霞)"
       },
       {
         "phone": "",
@@ -122,10 +110,6 @@ var member =
       },
       {
         "phone": "",
-        "name": "viviren(任婷婷)"
-      },
-      {
-        "phone": "",
         "name": "websterli(李俊杰)"
       },
       {
@@ -139,9 +123,5 @@ var member =
       {
         "phone": "",
         "name": "zoeytan(谭梓琪)"
-      },
-      {
-        "phone": "",
-        "name": "zorohuang(黄志伟)"
       }
     ]
